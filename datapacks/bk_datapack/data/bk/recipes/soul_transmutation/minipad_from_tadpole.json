@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "minecraft:tadpole",
+    "itemInputs": [
+      {
+        "item": "minecraft:glow_ink_sac"
+      },
+      {
+        "item": "minecraft:lily_pad"
+      },
+      {
+        "item": "minecraft:kelp"
+      },
+      {
+        "item": "minecraft:lily_pad"
+      },
+      {
+        "tag": "minecraft:small_flowers"
+      },
+      {
+        "item": "minecraft:lily_pad"
+      },
+      {
+        "item": "minecraft:kelp"
+      },
+      {
+        "item": "minecraft:lily_pad"
+      }
+    ],
+    "entityOutput": "cnb:minipad",
+    "duration": 60,
+    "shouldSummonMob": true
+}

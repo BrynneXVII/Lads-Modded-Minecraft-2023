@@ -1,0 +1,47 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "keepNbtOfReagent": true,
+  "output": {
+    "item": "minecraft:enchanted_book",
+		"nbt": {
+			"StoredEnchantments": [
+				{
+					"id": "spirit:soul_reaper",
+					"lvl": 3
+				}
+			]
+		}
+	},
+  "pedestalItems": [
+    {
+      "item": "spirit:crude_soul_crystal"
+    },
+    {
+      "tag": "minecraft:soul_fire_base_blocks"
+    },
+    {
+      "tag": "minecraft:soul_fire_base_blocks"
+    },
+    {
+      "item": "irons_spellbooks:blood_vial"
+    },
+    {
+      "item": "spirit:soul_steel_ingot"
+    },
+    {
+      "item": "spirit:soul_steel_block"
+    },
+    {
+      "item": "ars_nouveau:source_gem"
+    },
+    {
+      "item": "ars_nouveau:source_gem"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "sourceCost": 7000
+}

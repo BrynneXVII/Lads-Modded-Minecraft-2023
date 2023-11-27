@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "minecraft:evoker",
+    "itemInputs": [
+      {
+        "item": "minecraft:paper"
+      },
+      {
+        "item": "minecraft:slime_ball"
+      },
+      {
+        "item": "minecraft:emerald_block"
+      },
+      {
+        "item": "minecraft:orange_dye"
+      },
+      {
+        "item": "minecraft:jukebox"
+      },
+      {
+        "item": "culturaldelights:popcorn"
+      },
+      {
+        "item": "ars_nouveau:manipulation_essence"
+      },
+      {
+        "item": "ars_nouveau:conjuration_essence"
+      }
+    ],
+    "entityOutput": "conjurer_illager:conjurer",
+    "duration": 60,
+    "shouldSummonMob": true
+}

@@ -1,0 +1,41 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "keepNbtOfReagent": true,
+  "output": {
+    "item": "minecraft:enchanted_book",
+		"nbt": {
+			"StoredEnchantments": [
+				{
+					"id": "twilightforest:fire_react",
+					"lvl": 2
+				}
+			]
+		}
+	},
+  "pedestalItems": [
+    {
+      "item": "minecraft:blaze_rod"
+    },
+    {
+      "item": "ars_nouveau:wilden_spike"
+    },
+    {
+      "item": "minecraft:fire_charge"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "ars_nouveau:air_essence"
+    },
+    {
+      "item": "ars_nouveau:fire_essence"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "sourceCost": 5500
+}

@@ -1,0 +1,41 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "keepNbtOfReagent": true,
+  "output": {
+    "item": "minecraft:enchanted_book",
+		"nbt": {
+			"StoredEnchantments": [
+				{
+					"id": "twilightforest:destruction",
+					"lvl": 2
+				}
+			]
+		}
+	},
+  "pedestalItems": [
+    {
+      "item": "minecraft:iron_block"
+    },
+    {
+      "item": "twilightforest:armor_shard"
+    },
+    {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "ars_nouveau:earth_essence"
+    },
+    {
+      "item": "ars_nouveau:earth_essence"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "sourceCost": 6000
+}

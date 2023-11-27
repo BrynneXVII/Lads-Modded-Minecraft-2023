@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "minecraft:spider",
+    "itemInputs": [
+      {
+        "item": "minecraft:feather"
+      },
+      {
+        "tag": "minecraft:small_flowers"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:yellow_dye"
+      },
+      {
+        "item": "minecraft:feather"
+      },
+      {
+        "tag": "minecraft:small_flowers"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:yellow_dye"
+      },
+    ],
+    "entityOutput": "minecraft:bee",
+    "duration": 60,
+    "shouldSummonMob": true
+}

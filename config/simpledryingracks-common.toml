@@ -1,0 +1,3 @@
+#Recipes are defined as '<crafting ticks>;<input>;<output>'
+recipes = ["2400;item.minecraft.rotten_flesh;simpledryingracks:monster_jerky", "2400;item.minecraft.beef;simpledryingracks:beef_jerky", "2400;item.minecraft.porkchop;simpledryingracks:pork_jerky", "2400;item.minecraft.mutton;simpledryingracks:lamb_jerky", "2400;item.minecraft.chicken;simpledryingracks:chicken_jerky", "2400;item.minecraft.rabbit;simpledryingracks:rabbit_jerky", "2400;item.minecraft.salmon;simpledryingracks:salmon_jerky", "2400;item.minecraft.cod;simpledryingracks:cod_jerky"]
+

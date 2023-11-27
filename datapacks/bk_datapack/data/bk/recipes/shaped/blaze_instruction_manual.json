@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IBA",
+    "NTF",
+    "AUC"
+  ],
+  "key": {
+    "I": {
+      "item": "irons_spellbooks:uncommon_ink"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    },
+    "A": {
+      "item": "irons_spellbooks:magic_cloth"
+    },
+	"N": {
+      "item": "minecraft:nether_bricks"
+    },
+    "T": {
+      "item": "irons_spellbooks:copper_spell_book"
+    },
+    "F": {
+      "item": "minecraft:fire_charge"
+    },
+	"U": {
+      "item": "create:blaze_burner"
+    },
+    "C": {
+      "tag": "minecraft:coals"
+    }
+  },
+  "result": {
+    "item": "irons_spellbooks:blaze_spell_book"
+  }
+}

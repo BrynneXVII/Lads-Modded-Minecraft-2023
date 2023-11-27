@@ -1,0 +1,53 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "keepNbtOfReagent": true,
+  "output": {
+    "item": "minecraft:enchanted_book",
+		"nbt": {
+			"StoredEnchantments": [
+				{
+					"id": "ars_nouveau:reactive",
+					"lvl": 4
+				}
+			]
+		}
+	},
+	"reagent": [
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "pedestalItems": [
+      {
+      "item": {
+        "tag": "forge:gems/diamond"
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:ender_pearls"
+      }
+    },
+    {
+      "item": {
+        "item": "ars_nouveau:wilden_tribute"
+      }
+    }
+  ],
+  "sourceCost": 9000
+}

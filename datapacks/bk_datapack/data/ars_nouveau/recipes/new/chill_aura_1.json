@@ -1,0 +1,35 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "keepNbtOfReagent": true,
+  "output": {
+    "item": "minecraft:enchanted_book",
+		"nbt": {
+			"StoredEnchantments": [
+				{
+					"id": "twilightforest:chill_aura",
+					"lvl": 1
+				}
+			]
+		}
+	},
+  "pedestalItems": [
+	{
+      "item": "minecraft:lapis_lazuli"
+    },
+	{
+      "item": "minecraft:packed_ice"
+    },
+    {
+      "item": "minecraft:snow_block"
+    },
+    {
+      "item": "ars_nouveau:source_gem"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "sourceCost": 2500
+}

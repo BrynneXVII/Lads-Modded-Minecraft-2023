@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IRE",
+    "RTQ",
+    "ERS"
+  ],
+  "key": {
+    "I": {
+      "item": "irons_spellbooks:uncommon_ink"
+    },
+    "R": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "E": {
+      "item": "irons_spellbooks:arcane_essence"
+    },
+    "T": {
+      "item": "irons_spellbooks:iron_spell_book"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    },
+    "S": {
+      "item": "minecraft:iron_sword"
+    }
+  },
+  "result": {
+    "item": "irons_spellbooks:rotten_spell_book"
+  }
+}

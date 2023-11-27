@@ -1,0 +1,38 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "keepNbtOfReagent": true,
+  "output": {
+    "item": "minecraft:enchanted_book",
+		"nbt": {
+			"StoredEnchantments": [
+				{
+					"id": "create:capacity",
+					"lvl": 1
+				}
+			]
+		}
+	},
+  "pedestalItems": [
+    {
+      "item": "minecraft:chest"
+    },
+    {
+      "tag": "storagedrawers:drawers"
+    },
+    {
+      "item": "farmersdelight:potato_crate"
+    },
+    {
+      "item": "create:item_vault"
+    },
+    {
+      "item": "minecraft:obsidian"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "sourceCost": 2000
+}

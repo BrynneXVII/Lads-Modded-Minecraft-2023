@@ -1,0 +1,47 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "keepNbtOfReagent": true,
+  "output": {
+    "item": "minecraft:enchanted_book",
+		"nbt": {
+			"StoredEnchantments": [
+				{
+					"id": "frost_walker",
+					"lvl": 2
+				}
+			]
+		}
+	},
+  "pedestalItems": [
+    {
+      "item": "minecraft:blue_ice"
+    },
+	{
+      "item": "minecraft:blue_ice"
+    },
+	{
+      "item": "minecraft:packed_ice"
+    },
+    {
+      "item": "minecraft:packed_ice"
+    },
+    {
+      "item": "minecraft:ice"
+    },
+	{
+      "item": "minecraft:ice"
+    },
+    {
+      "item": "ars_nouveau:water_essence"
+    },    
+    {
+      "item": "ars_nouveau:water_essence"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "sourceCost": 5000
+}

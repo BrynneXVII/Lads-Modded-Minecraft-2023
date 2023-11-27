@@ -1,0 +1,38 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "keepNbtOfReagent": true,
+  "output": {
+    "item": "minecraft:enchanted_book",
+		"nbt": {
+			"StoredEnchantments": [
+				{
+					"id": "lure",
+					"lvl": 2
+				}
+			]
+		}
+	},
+  "pedestalItems": [
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "tag": "minecraft:fishes"
+    },
+    {
+      "tag": "minecraft:fishes"
+    },
+	{
+      "tag": "minecraft:fishes"
+    },
+	{
+      "tag": "minecraft:fishes"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "sourceCost": 3000
+}

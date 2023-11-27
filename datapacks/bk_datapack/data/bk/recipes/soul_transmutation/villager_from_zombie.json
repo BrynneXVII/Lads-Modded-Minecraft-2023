@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "minecraft:zombie",
+    "itemInputs": [
+      {
+        "item": "minecraft:apple"
+      },
+      {
+        "item": "minecraft:emerald"
+      },
+      {
+        "item": "minecraft:bread"
+      },
+      {
+        "item": "minecraft:bread"
+      },
+      {
+        "tag": "minecraft:planks"
+      },
+      {
+        "item": "minecraft:wheat_seeds"
+      },
+      {
+        "item": "minecraft:wheat_seeds"
+      },
+      {
+        "tag": "minecraft:wool"
+      }
+    ],
+    "entityOutput": "minecraft:villager",
+    "duration": 60,
+    "shouldSummonMob": true
+}

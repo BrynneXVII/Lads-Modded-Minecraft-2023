@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IGA",
+    "CTB",
+    "AES"
+  ],
+  "key": {
+    "I": {
+      "item": "irons_spellbooks:uncommon_ink"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "A": {
+      "item": "irons_spellbooks:magic_cloth"
+    },
+	"C": {
+      "item": "minecraft:golden_carrot"
+    },
+    "T": {
+      "item": "irons_spellbooks:gold_spell_book"
+    },
+    "B": {
+      "tag": "minecraft:beds"
+    },
+	"E": {
+      "item": "minecraft:emerald"
+    },
+    "S": {
+      "tag": "minecraft:small_flowers"
+    }
+  },
+  "result": {
+    "item": "irons_spellbooks:villager_spell_book"
+  }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "twilightforest:deer",
+    "itemInputs": [
+      {
+        "item": "minecraft:leather"
+      },
+      {
+        "item": "ars_nouveau:source_gem"
+      },
+      {
+        "item": "minecraft:feather"
+      },
+      {
+        "item": "ars_nouveau:source_gem"
+      },
+      {
+        "tag": "minecraft:wool"
+      },
+      {
+        "item": "ars_nouveau:source_gem"
+      },
+      {
+        "item": "minecraft:stick"
+      },
+      {
+        "item": "ars_nouveau:source_gem"
+      }
+    ],
+    "entityOutput": "ars_nouveau:drygmy",
+    "duration": 60,
+    "shouldSummonMob": true
+}

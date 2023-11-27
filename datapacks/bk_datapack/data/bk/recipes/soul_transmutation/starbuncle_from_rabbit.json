@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "minecraft:rabbit",
+    "itemInputs": [
+      {
+        "item": "minecraft:gold_nugget"
+      },
+      {
+        "item": "ars_nouveau:source_gem"
+      },
+      {
+        "item": "minecraft:gold_nugget"
+      },
+      {
+        "item": "ars_nouveau:source_gem"
+      },
+      {
+        "item": "minecraft:gold_nugget"
+      },
+      {
+        "item": "ars_nouveau:source_gem"
+      },
+      {
+        "item": "minecraft:gold_nugget"
+      },
+      {
+        "item": "ars_nouveau:source_gem"
+      }
+    ],
+    "entityOutput": "ars_nouveau:starbuncle",
+    "duration": 60,
+    "shouldSummonMob": true
+}

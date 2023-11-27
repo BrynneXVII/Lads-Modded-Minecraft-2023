@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "minecraft:vex",
+    "itemInputs": [
+      {
+        "item": "minecraft:note_block"
+      },
+      {
+        "item": "minecraft:cookie"
+      },
+      {
+        "item": "minecraft:cookie"
+      },
+      {
+        "item": "minecraft:cookie"
+      },
+      {
+        "item": "minecraft:cookie"
+      },
+      {
+        "item": "minecraft:cookie"
+      },
+      {
+        "item": "minecraft:cookie"
+      },
+      {
+        "item": "minecraft:amethyst_shard"
+      }
+    ],
+    "entityOutput": "minecraft:allay",
+    "duration": 60,
+    "shouldSummonMob": true
+}

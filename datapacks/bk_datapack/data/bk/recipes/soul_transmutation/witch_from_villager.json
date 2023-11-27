@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "minecraft:villager",
+    "itemInputs": [
+      {
+        "item": "minecraft:spider_eye"
+      },
+      {
+        "item": "minecraft:brown_mushroom"
+      },
+      {
+        "item": "minecraft:glass"
+      },
+      {
+        "item": "minecraft:black_wool"
+      },
+      {
+        "item": "minecraft:black_wool"
+      },
+      {
+        "item": "minecraft:black_wool"
+      },
+      {
+        "item": "minecraft:black_wool"
+      },
+      {
+        "item": "minecraft:red_mushroom"
+      }
+    ],
+    "entityOutput": "minecraft:witch",
+    "duration": 60,
+    "shouldSummonMob": true
+}

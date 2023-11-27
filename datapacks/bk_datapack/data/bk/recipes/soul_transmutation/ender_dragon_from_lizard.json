@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "cnb:lizard",
+    "itemInputs": [
+     {
+        "item": "minecraft:obsidian"
+      },
+      {
+        "item": "minecraft:end_stone"
+      },
+      {
+        "item": "minecraft:end_crystal"
+      },
+      {
+        "item": "minecraft:ender_eye"
+      },
+      {
+        "item": "minecraft:obsidian"
+      },
+      {
+        "item": "minecraft:end_stone"
+      },
+      {
+        "item": "minecraft:end_crystal"
+      },
+      {
+        "item": "minecraft:chorus_fruit"
+      }
+    ],
+    "entityOutput": "minecraft:ender_dragon",
+    "duration": 60,
+    "shouldSummonMob": true
+}

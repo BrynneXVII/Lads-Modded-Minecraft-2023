@@ -1,0 +1,21 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "minecraft:squid",
+    "itemInputs": [
+      {
+        "item": "minecraft:soul_torch"
+      },
+      {
+        "item": "minecraft:soul_torch"
+      },
+      {
+        "item": "minecraft:soul_torch"
+      },
+      {
+        "item": "minecraft:soul_torch"
+      }
+    ],
+    "entityOutput": "minecraft:glow_squid",
+    "duration": 60,
+    "shouldSummonMob": true
+}

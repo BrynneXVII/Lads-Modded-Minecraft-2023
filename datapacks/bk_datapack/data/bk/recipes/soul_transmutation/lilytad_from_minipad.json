@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "cnb:minipad",
+    "itemInputs": [
+      {
+        "item": "minecraft:lily_pad"
+      },
+      {
+        "item": "minecraft:bone_meal"
+      },
+      {
+        "item": "minecraft:bone_meal"
+      },
+      {
+        "item": "minecraft:bone_meal"
+      },
+      {
+        "item": "minecraft:bone_meal"
+      },
+      {
+        "item": "minecraft:bone_meal"
+      },
+      {
+        "item": "minecraft:bone_meal"
+      },
+      {
+        "tag": "minecraft:small_flowers"
+      }
+    ],
+    "entityOutput": "cnb:lilytad",
+    "duration": 60,
+    "shouldSummonMob": true
+}

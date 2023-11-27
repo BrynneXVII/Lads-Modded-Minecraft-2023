@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "cnb:minipad",
+    "itemInputs": [
+      {
+        "tag": "minecraft:saplings"
+      },
+      {
+        "item": "ars_nouveau:source_gem"
+      },
+      {
+        "tag": "minecraft:saplings"
+      },
+      {
+        "item": "ars_nouveau:source_gem"
+      },
+      {
+        "tag": "minecraft:saplings"
+      },
+      {
+        "item": "ars_nouveau:source_gem"
+      },
+      {
+        "tag": "minecraft:saplings"
+      },
+      {
+        "item": "ars_nouveau:source_gem"
+      }
+    ],
+    "entityOutput": "ars_nouveau:whirlisprig",
+    "duration": 60,
+    "shouldSummonMob": true
+}

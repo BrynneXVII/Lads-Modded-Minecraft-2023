@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "minecraft:skeleton",
+    "itemInputs": [
+      {
+        "item": "irons_spellbooks:arcane_essence"
+      },
+      {
+        "item": "minecraft:leather"
+      },
+      {
+        "item": "minecraft:moss_block"
+      },
+      {
+        "item": "minecraft:rotten_flesh"
+      },
+      {
+        "item": "minecraft:moss_block"
+      },
+      {
+        "item": "minecraft:leather"
+      },
+      {
+        "item": "minecraft:moss_block"
+      },
+      {
+        "item": "minecraft:rotten_flesh"
+      }
+    ],
+    "entityOutput": "irons_spellbooks:necromancer",
+    "duration": 60,
+    "shouldSummonMob": true
+}

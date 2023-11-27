@@ -1,0 +1,38 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "keepNbtOfReagent": true,
+  "output": {
+    "item": "minecraft:enchanted_book",
+		"nbt": {
+			"StoredEnchantments": [
+				{
+					"id": "impaling",
+					"lvl": 3
+				}
+			]
+		}
+	},
+  "pedestalItems": [
+    {
+      "item": "minecraft:dark_prismarine"
+    },
+	{
+      "item": "minecraft:dark_prismarine"
+    },
+    {
+      "item": "minecraft:prismarine"
+    },
+	{
+      "item": "minecraft:prismarine"
+    },
+	{
+      "item": "ars_nouveau:source_gem_block"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "sourceCost": 5000
+}

@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "minecraft:chicken",
+    "itemInputs": [
+      {
+        "item": "minecraft:ice"
+      },
+      {
+        "item": "minecraft:snow_block"
+      },
+      {
+        "item": "minecraft:ice"
+      },
+      {
+        "item": "minecraft:snow_block"
+      },
+      {
+        "item": "minecraft:ice"
+      },
+      {
+        "item": "minecraft:snow_block"
+      },
+      {
+        "item": "minecraft:ice"
+      },
+      {
+        "item": "minecraft:snow_block"
+      }
+    ],
+    "entityOutput": "twilightforest:penguin",
+    "duration": 60,
+    "shouldSummonMob": true
+}

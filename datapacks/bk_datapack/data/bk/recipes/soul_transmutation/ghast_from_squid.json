@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "minecraft:squid",
+    "itemInputs": [
+      {
+        "item": "minecraft:fire_charge"
+      },
+      {
+        "item": "minecraft:netherrack"
+      },
+      {
+        "item": "minecraft:netherrack"
+      },
+      {
+        "item": "minecraft:feather"
+      },
+      {
+        "item": "minecraft:white_dye"
+      },
+      {
+        "item": "minecraft:feather"
+      },
+      {
+        "item": "minecraft:netherrack"
+      },
+      {
+        "item": "minecraft:netherrack"
+      }
+    ],
+    "entityOutput": "minecraft:ghast",
+    "duration": 60,
+    "shouldSummonMob": true
+}

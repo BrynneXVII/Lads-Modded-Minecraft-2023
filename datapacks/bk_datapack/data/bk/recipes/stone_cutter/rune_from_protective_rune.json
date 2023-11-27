@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "irons_spellbooks:protection_rune"
+  },
+  "result": "irons_spellbooks:blank_rune"
+}

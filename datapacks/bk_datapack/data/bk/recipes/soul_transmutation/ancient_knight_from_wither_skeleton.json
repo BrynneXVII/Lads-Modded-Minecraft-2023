@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "minecraft:wither_skeleton",
+    "itemInputs": [
+      {
+        "item": "irons_spellbooks:arcane_essence"
+      },
+      {
+        "item": "minecraft:iron_ingot"
+      },
+      {
+        "item": "minecraft:iron_ingot"
+      },
+      {
+        "item": "irons_spellbooks:blood_vial"
+      },
+      {
+        "item": "minecraft:ancient_debris"
+      },
+      {
+        "item": "minecraft:iron_ingot"
+      },
+      {
+        "item": "minecraft:iron_ingot"
+      },
+      {
+        "item": "irons_spellbooks:blood_vial"
+      }
+    ],
+    "entityOutput": "irons_spellbooks:citadel_keeper",
+    "duration": 60,
+    "shouldSummonMob": true
+}

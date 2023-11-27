@@ -1,0 +1,41 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "keepNbtOfReagent": true,
+  "output": {
+    "item": "minecraft:enchanted_book",
+		"nbt": {
+			"StoredEnchantments": [
+				{
+					"id": "twilightforest:chill_aura",
+					"lvl": 2
+				}
+			]
+		}
+	},
+  "pedestalItems": [
+	{
+      "item": "minecraft:lapis_lazuli"
+    },
+	{
+      "item": "minecraft:packed_ice"
+    },
+    {
+      "item": "ars_nouveau:wilden_horn"
+    },
+    {
+      "item": "minecraft:snow_block"
+    },
+	{
+      "item": "minecraft:powder_snow_bucket"
+    },
+    {
+      "item": "ars_nouveau:water_essence"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "sourceCost": 5000
+}

@@ -1,0 +1,12 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "minecraft:chicken",
+    "itemInputs": [
+      {
+        "item": "minecraft:leather"
+      }
+    ],
+    "entityOutput": "minecraft:bat",
+    "duration": 60,
+    "shouldSummonMob": true
+}

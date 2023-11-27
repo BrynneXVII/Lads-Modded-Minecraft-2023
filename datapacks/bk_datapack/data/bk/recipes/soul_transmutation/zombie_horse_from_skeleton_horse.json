@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "minecraft:skeleton_horse",
+    "itemInputs": [
+      {
+        "item": "minecraft:carved_pumpkin"
+      },
+      {
+        "item": "minecraft:rotten_flesh"
+      },
+      {
+        "item": "minecraft:vine"
+      },
+      {
+        "item": "minecraft:rotten_flesh"
+      },
+      {
+        "item": "minecraft:soul_torch"
+      },
+      {
+        "item": "minecraft:rotten_flesh"
+      },
+      {
+        "item": "minecraft:vine"
+      },
+      {
+        "item": "minecraft:rotten_flesh"
+      }
+    ],
+    "entityOutput": "minecraft:zombie_horse",
+    "duration": 60,
+    "shouldSummonMob": true
+}

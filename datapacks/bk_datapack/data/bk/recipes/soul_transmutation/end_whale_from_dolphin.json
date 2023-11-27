@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "minecraft:dolphin",
+    "itemInputs": [
+      {
+        "item": "minecraft:amethyst_shard"
+      },
+      {
+        "item": "minecraft:gold_ingot"
+      },
+      {
+        "item": "minecraft:end_stone"
+      },
+      {
+        "item": "minecraft:end_stone"
+      },
+      {
+        "item": "minecraft:end_stone"
+      },
+      {
+        "item": "minecraft:end_stone"
+      },
+      {
+        "item": "minecraft:end_stone"
+      },
+      {
+        "item": "minecraft:gold_ingot"
+      }
+    ],
+    "entityOutput": "cnb:end_whale",
+    "duration": 60,
+    "shouldSummonMob": true
+}

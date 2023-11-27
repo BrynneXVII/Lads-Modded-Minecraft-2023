@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "minecraft:turtle",
+    "itemInputs": [
+      {
+        "item": "minecraft:lava_bucket"
+      },
+      {
+        "item": "minecraft:netherrack"
+      },
+      {
+        "item": "minecraft:netherrack"
+      },
+      {
+        "item": "minecraft:netherrack"
+      },
+      {
+        "item": "minecraft:netherrack"
+      },
+      {
+        "item": "minecraft:netherrack"
+      },
+      {
+        "item": "minecraft:netherrack"
+      },
+      {
+        "item": "minecraft:netherrack"
+      }
+    ],
+    "entityOutput": "cnb:cindershell",
+    "duration": 60,
+    "shouldSummonMob": true
+}

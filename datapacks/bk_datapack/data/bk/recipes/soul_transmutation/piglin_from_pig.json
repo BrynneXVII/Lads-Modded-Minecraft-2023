@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "minecraft:pig",
+    "itemInputs": [
+      {
+        "item": "minecraft:gold_ingot"
+      },
+      {
+        "item": "minecraft:leather"
+      },
+      {
+        "item": "minecraft:netherrack"
+      },
+      {
+        "item": "minecraft:netherrack"
+      },
+      {
+        "item": "minecraft:blackstone"
+      },
+      {
+        "item": "minecraft:netherrack"
+      },
+      {
+        "item": "minecraft:netherrack"
+      },
+      {
+        "item": "minecraft:leather"
+      }
+    ],
+    "entityOutput": "minecraft:piglin",
+    "duration": 60,
+    "shouldSummonMob": true
+}

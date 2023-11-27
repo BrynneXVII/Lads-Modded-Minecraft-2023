@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "minecraft:villager",
+    "itemInputs": [
+      {
+        "item": "irons_spellbooks:arcane_essence"
+      },
+      {
+        "item": "minecraft:book"
+      },
+      {
+        "tag": "minecraft:candles"
+      },
+      {
+        "item": "minecraft:gold_ingot"
+      },
+      {
+        "item": "minecraft:ink_sac"
+      },
+      {
+        "item": "minecraft:book"
+      },
+      {
+        "tag": "minecraft:candles"
+      },
+      {
+        "item": "minecraft:white_wool"
+      }
+    ],
+    "entityOutput": "irons_spellbooks:priest",
+    "duration": 60,
+    "shouldSummonMob": true
+}

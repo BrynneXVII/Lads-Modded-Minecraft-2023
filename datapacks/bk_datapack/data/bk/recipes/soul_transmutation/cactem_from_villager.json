@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "minecraft:villager",
+    "itemInputs": [
+      {
+        "item": "minecraft:dead_bush"
+      },
+      {
+        "item": "minecraft:cactus"
+      },
+      {
+        "item": "minecraft:stick"
+      },
+      {
+        "item": "minecraft:cactus"
+      },
+      {
+        "item": "minecraft:dead_bush"
+      },
+      {
+        "item": "minecraft:cactus"
+      },
+      {
+        "item": "minecraft:stick"
+      },
+      {
+        "item": "minecraft:cactus"
+      }
+    ],
+    "entityOutput": "cnb:cactem",
+    "duration": 60,
+    "shouldSummonMob": true
+}

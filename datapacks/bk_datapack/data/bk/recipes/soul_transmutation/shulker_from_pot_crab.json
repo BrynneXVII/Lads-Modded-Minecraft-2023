@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "pots_and_mimics:pot_crab",
+    "itemInputs": [
+      {
+        "item": "minecraft:chest"
+      },
+      {
+        "item": "minecraft:ender_pearl"
+      },
+      {
+        "item": "minecraft:feather"
+      },
+      {
+        "item": "minecraft:purple_dye"
+      },
+      {
+        "item": "minecraft:chest"
+      },
+      {
+        "item": "minecraft:iron_helmet"
+      },
+      {
+        "item": "minecraft:feather"
+      },
+      {
+        "item": "minecraft:purple_dye"
+      }
+    ],
+    "entityOutput": "minecraft:shulker",
+    "duration": 60,
+    "shouldSummonMob": true
+}
