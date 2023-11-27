@@ -1,0 +1,10 @@
+- Advancements Tracker 
+	- widget disabled by default in config
+- Supplementaries common
+	- #Allow all books to be placed both vertically and horizontally = true
+- Healing Campfire
+	- Duration of regen effect drastically reduced
+	- Reduce radius
+
+
+
