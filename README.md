@@ -8,4 +8,6 @@ To be put in the main folder:
 - mods
 - resourcepacks
 - scripts
-  
+
+Seed:
+mayihaveaplains (-338053378)
