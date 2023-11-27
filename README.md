@@ -1,5 +1,4 @@
 # Lads Modded Minecraft 2023
-#### Test
 To be put in the saves -> world folder:
 - serverconfig
 - datapacks
