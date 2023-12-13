@@ -5,6 +5,9 @@
 - Healing Campfire
 	- Duration of regen effect drastically reduced
 	- Reduce radius
+- Use contraptions to move spawners
+	- #Configure how Spawner blocks can be moved by contraptions
+	- movableSpawners = "MOVABLE"
 
 
 
