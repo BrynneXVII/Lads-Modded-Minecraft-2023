@@ -1,0 +1,33 @@
+{
+    "type": "spirit:soul_transmutation",
+    "entityInput": "minecraft:villager",
+    "itemInputs": [
+      {
+        "item": "irons_spellbooks:arcane_essence"
+      },
+      {
+        "item": "minecraft:book"
+      },
+      {
+        "tag": "minecraft:candles"
+      },
+      {
+        "item": "minecraft:gold_ingot"
+      },
+      {
+        "item": "minecraft:white_dye"
+      },
+      {
+        "item": "minecraft:book"
+      },
+      {
+        "tag": "minecraft:candles"
+      },
+      {
+        "item": "minecraft:black_wool"
+      }
+    ],
+    "entityOutput": "irons_spellbooks:archevoker",
+    "duration": 60,
+    "shouldSummonMob": true
+}
